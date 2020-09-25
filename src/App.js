@@ -5,7 +5,6 @@ import PostList from "./component/PostList";
 function App() {
   return (
     <div>
-      Hello
       <PostList />
     </div>
   );
